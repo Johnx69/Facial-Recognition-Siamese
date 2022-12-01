@@ -1,2 +1,2 @@
-# Facial-Recognition-Siamese
-Facial Recognition App
+# Facial Recognition using Siamese Network
+
